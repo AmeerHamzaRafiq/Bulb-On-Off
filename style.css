@@ -11,3 +11,14 @@ body{
 #h1{
     padding-left:13%;
 }
+
+
+@media (max-width: 780px) {
+    .pic {
+        padding-left: 16%; 
+    }
+
+    #h1{
+        margin-left:20%;
+    }
+}
